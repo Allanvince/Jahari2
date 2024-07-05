@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Jahari Africa</string>
+    <string name="made_by_vince_tech">Made by vince_tech</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? <b>Sign Up</b></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account_login">Already have an account? <b>Login</b></string>
+    <string name="home">Home</string>
+    <string name="good_evening">Good evening</string>
+    <string name="vince">Vince</string>
+    <string name="shop">Shop</string>
+    <string name="profile">Profile</string>
+    <string name="favorites">Favorites</string>
+    <string name="categories">Categories</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="get_20_discount_on_the_first_order_from_the_app">Get 20% Discount on the first order from the App</string>
+    <string name="fruits">Fruits</string>
+    <string name="spices">Spices</string>
+    <string name="beverages">Beverages</string>
+    <string name="popular_products">Popular Products</string>
+    <string name="potatoes">Potatoes</string>
+    <string name="tomatoes">Tomatoes</string>
+    <string name="onions">Onions</string>
+</resources>
